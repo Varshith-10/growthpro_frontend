@@ -6,8 +6,8 @@ This is a full-stack assignment project simulating how local businesses can view
 
 ## 🌐 Live Demo
 
-- **Frontend:** [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
-- **Backend:** [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- **Frontend:** [https://growthpro-frontend-beta.vercel.app/](https://growthpro-frontend-beta.vercel.app/)
+- **Backend:** [https://growthpro-backend-eeqw.onrender.com/](https://growthpro-backend-eeqw.onrender.com/)
 
 ---
 
